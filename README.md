@@ -1,0 +1,3 @@
+# AvitoIntershipTest
+
+__Запуск__
